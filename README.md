@@ -11,7 +11,7 @@ After running the pipeline across all the desired subjects, run the result_data.
 
 
 The following software is required:
-Mrtrix3.0
-FSL
-Synb0-Disco
-Docker
+Mrtrix3.0 \
+FSL \
+Synb0-Disco \
+Docker\
