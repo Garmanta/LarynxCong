@@ -15,4 +15,4 @@ The following software is required:
 Mrtrix3.0 \
 FSL \
 Synb0-Disco \
-Docker\
+Docker
